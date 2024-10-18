@@ -22,6 +22,7 @@ const Login = () => {
             <AntDesign name="caretdown" size={moderateScale(12)} color="black" style={{paddingRight:10}} />
           </View>
           <View style={styles.horizental_line}></View>
+          <View style={styles.horizental_2line}></View>
         </View>
       </View>
       <View style={styles.footer}>
@@ -73,6 +74,9 @@ const styles = StyleSheet.create({
     height: verticalScale(2),
     backgroundColor: '#09AA82',
     alignSelf: 'center', // This will center the horizontal line inside its container
+  },
+  horizental_2line:{
+    
   },
   
   footer: {
