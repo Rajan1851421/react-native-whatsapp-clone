@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "src/components/atoms/ButtonComps.jsx", "src/app/(auth)/terms_agree.jsx", "src/app/(auth)/login.jsx", "src/app/(auth)/index.jsx"  ]
 }

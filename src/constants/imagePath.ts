@@ -1,0 +1,4 @@
+export default {
+  logo: require("@/src/assets/images/logo.jpeg"),
+  welcome_image:require("@/src/assets/images/welcome.jpg"),
+};
