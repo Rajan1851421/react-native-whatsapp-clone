@@ -5,7 +5,7 @@ import { StyleSheet, View } from 'react-native';
 const Layout = () => {
     return (
         <Stack>
-            
+            <Stack.Screen name='index'/>            
         </Stack>
     );
 }

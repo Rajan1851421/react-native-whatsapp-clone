@@ -1,12 +1,12 @@
 import { Stack } from 'expo-router';
 import React from 'react';
-import { StyleSheet, View } from 'react-native';
+import { StyleSheet, View,Text } from 'react-native';
 
 const Index = () => {
     return (
-        <Stack>
-          
-        </Stack>
+        <View>
+          <Text>Main Page</Text>
+        </View>
     );
 }
 
